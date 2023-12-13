@@ -1,7 +1,13 @@
 <html>
     <title>
-
+        Page Title
     </title>
+    <nav>
+        <a href="">Item One</a> |
+        <a href="">Item Two</a> |
+        <a href="">Item Three</a> |
+        <a href="">Item Four</a>
+      </nav> 
     <head>
         Beginning
     </head>
