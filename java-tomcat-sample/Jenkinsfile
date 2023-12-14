@@ -17,16 +17,15 @@ pipeline {
                 }
             }
         }
-        /*
         stage('Deploy in Staging Environment')
         {
             steps
             {
                 build job: 'Deploy Application to Staging Environment'
-
             }
             
         }
+        /*
         stage('Deploy to Production')
         {
             steps
