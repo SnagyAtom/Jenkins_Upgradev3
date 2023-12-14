@@ -25,7 +25,6 @@ pipeline {
             }
             
         }
-        /*
         stage('Deploy to Production')
         {
             steps
@@ -37,6 +36,5 @@ pipeline {
                 build job: 'Deploy Application to Prod Environment'
             }
         }
-        */
     }
 }
